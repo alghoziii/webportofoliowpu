@@ -1,6 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;700;900&family=Oswald:wght@300&family=Poppins:ital,wght@0,300;1,300&family=Yanone+Kaffeesatz:wght@200;300;400;500;600;700&display=swap");
+
 .jumbotron {
-  padding-top: 7rem;
+  padding-top: 10rem;
   background-color: #e2edff;
+  font-family: "Oswald", sans-serif;
 }
 
 #projects {
@@ -9,4 +12,8 @@
 
 section {
   padding-top: 5rem;
+}
+.modal-footer a {
+  text-decoration: none;
+  color: white;
 }
